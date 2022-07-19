@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shavi34
 - 👀 I’m interested in web and mobile apps development.
-- 🌱 I’m currently learning Ruby on Rails
-- 💞️ I’m looking to collaborate on Ruby on rails projects.
+- 💞️ I’m looking to collaborate on Laravel projects.
 - 📫 How to reach me https://au.linkedin.com/in/shavinda
 
 <!---
