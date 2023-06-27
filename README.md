@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @shavi34
-
+- 👀 I’m interested in SAAS development.
+- 💞️ I’m looking to collaborate on Laravel and Django projects.
 - 📫 How to reach me https://au.linkedin.com/in/shavinda
 
 <!---
